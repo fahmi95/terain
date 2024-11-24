@@ -1,0 +1,12 @@
+<!--Script iklan header-->
+<center>
+<script src="https://cdn.jsdelivr.net/gh/fahmi95/terain/90x728.js"></script>
+</center>
+
+<!--Script iklan floating-->
+<script src="https://cdn.jsdelivr.net/gh/fahmi95/terain/300x250.js"></script>
+<!--Akhir script iklan floating-->
+
+<!--Script iklan floating-->
+<script src="https://cdn.jsdelivr.net/gh/fahmi95/terain/popunder.js"></script>
+<!--Akhir script iklan floating-->
