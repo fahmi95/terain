@@ -1,0 +1,1 @@
+document.write('<scr' + 'ipt type="text/javascript" src="//www.highcpmcreativeformat.com/0a/77/c2/0a77c2b6d09d2f5dd7f4952b2b3d6910.js"></scr' + 'ipt>');
